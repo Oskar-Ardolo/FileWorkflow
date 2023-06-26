@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace FileWorkflowLibrary.Core
 {
-    internal class Workflow
+    public class Workflow
     {
+        public string Name { get; set; }
+        public string UID { get; set; }
+        public List<Step> Steps { get; set; }
     }
 }
