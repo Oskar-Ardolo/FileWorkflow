@@ -1,4 +1,4 @@
-﻿namespace FileWorkflowLibrary.Core
+﻿namespace FileWorkflow.Library.Core
 {
     public class Program
     {

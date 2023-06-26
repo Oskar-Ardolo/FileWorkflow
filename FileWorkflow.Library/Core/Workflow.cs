@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FileWorkflowLibrary.Core
+namespace FileWorkflow.Library.Core
 {
     public class Workflow
     {
